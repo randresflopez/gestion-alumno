@@ -8483,11 +8483,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\randr\\GestionAlumnos\\AlumnosApi\\AlumnosApi.csproj",
+      "projectUniqueName": "C:\\Users\\randr\\GestionAlumnos\\back-end\\AlumnosApi\\AlumnosApi.csproj",
       "projectName": "AlumnosApi",
-      "projectPath": "C:\\Users\\randr\\GestionAlumnos\\AlumnosApi\\AlumnosApi.csproj",
+      "projectPath": "C:\\Users\\randr\\GestionAlumnos\\back-end\\AlumnosApi\\AlumnosApi.csproj",
       "packagesPath": "C:\\Users\\randr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\randr\\GestionAlumnos\\AlumnosApi\\obj\\",
+      "outputPath": "C:\\Users\\randr\\GestionAlumnos\\back-end\\AlumnosApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\randr\\AppData\\Roaming\\NuGet\\NuGet.Config",

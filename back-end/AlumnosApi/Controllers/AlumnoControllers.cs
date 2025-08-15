@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace AlumnosApi.Controllers
 {
-    [Authorize] // Protege todo el controlador con autenticación básica
+    [Authorize] 
     [Route("api/[controller]")]
     [ApiController]
     public class AlumnosController : ControllerBase

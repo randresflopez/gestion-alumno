@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOmak/9+aCo=",
+  "dgSpecHash": "dQrSR5rKIok=",
   "success": true,
-  "projectFilePath": "C:\\Users\\randr\\GestionAlumnos\\AlumnosApi\\AlumnosApi.csproj",
+  "projectFilePath": "C:\\Users\\randr\\GestionAlumnos\\back-end\\AlumnosApi\\AlumnosApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\randr\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\randr\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
